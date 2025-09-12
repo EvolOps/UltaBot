@@ -2,6 +2,13 @@
 
 A CLI chatbot with decent features. Built by Sagar.
 
+<p align="center">
+  <img
+    src="https://aider.chat/assets/screencast.svg"
+    alt="aider screencast"
+  >
+</p>
+
 ## Features
 
 -   **Chat**: Talks to AI models.
