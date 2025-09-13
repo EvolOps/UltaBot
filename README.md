@@ -4,8 +4,8 @@ A CLI chatbot with decent features. Built by Sagar.
 
 <p align="center">
   <img
-    src="https://aider.chat/assets/screencast.svg"
-    alt="aider screencast"
+    src="https://streamable.com/y5d8y9"
+    alt="UltaBot Demo"
   >
 </p>
 
