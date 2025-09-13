@@ -2,15 +2,6 @@
 
 A CLI chatbot with decent features. Built by Sagar.
 
-<!DOCTYPE html>
-<html>
-<body>
-    <video width="100%" controls autoplay muted>
-        <source src="https://drive.google.com/file/d/1CIORjm43SXTVOasRCCBD-gOoIyYfa4_a/view?usp=sharing" type="video/mp4">
-    </video>
-</body>
-</html>
-
 ## Features
 
 -   **Chat**: Talks to AI models.
