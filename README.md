@@ -2,12 +2,14 @@
 
 A CLI chatbot with decent features. Built by Sagar.
 
-<p align="center">
-  <img
-    src="https://streamable.com/y5d8y9"
-    alt="UltaBot Demo"
-  >
-</p>
+<!DOCTYPE html>
+<html>
+<body>
+    <video width="100%" controls autoplay muted>
+        <source src="https://drive.google.com/open?id=1CIORjm43SXTVOasRCCBD-gOoIyYfa4_a&usp=drive_fs" type="video/mp4">
+    </video>
+</body>
+</html>
 
 ## Features
 
