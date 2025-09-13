@@ -6,7 +6,7 @@ A CLI chatbot with decent features. Built by Sagar.
 <html>
 <body>
     <video width="100%" controls autoplay muted>
-        <source src="https://drive.google.com/open?id=1CIORjm43SXTVOasRCCBD-gOoIyYfa4_a&usp=drive_fs" type="video/mp4">
+        <source src="https://drive.google.com/file/d/1CIORjm43SXTVOasRCCBD-gOoIyYfa4_a/view?usp=sharing" type="video/mp4">
     </video>
 </body>
 </html>
